@@ -19,3 +19,7 @@ jobs:
 
       - name: Run tests
         run: pytest tests/
+
+
+      - name: Run model
+        run: python src/model.py
