@@ -22,3 +22,6 @@ jobs:
 
       - name: Run model
         run: python src/model.py
+
+      - name: Generate report
+        run: python src/render_report.py
