@@ -13,3 +13,4 @@ The CD workflow deploys the generated HTML report to GitHub Pages so it can be v
 ## Issue Faced
 GitHub Pages initially returned 404 because the wrong folder was deployed.  
 I fixed the workflow to deploy the docs folder correctly.
+
